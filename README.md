@@ -38,6 +38,19 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 dokumentasi aplikasi Buku LIST
 
+### Buat File .env.local
+
+masukan data ini
+NEXT_PUBLIC_API_KEY ="AIzaSyD6bIlDe3W9IB5VLWHG45pHTLYen8njk5U"
+NEXT_PUBLIC_DATABASE_URL ="https://programweb-343e3-default-rtdb.asia-southeast1.firebasedatabase.app/"
+NEXT_PUBLIC_AUTH_DOMAIN ="programweb-343e3.firebaseapp.com"
+NEXT_PUBLIC_PROJECT_ID ="programweb-343e3"
+NEXT_PUBLIC_STORAGE_BUCKET ="programweb-343e3.appspot.com"
+NEXT_PUBLIC_MESSAGE_SENDER_ID ="193871713792"
+NEXT_PUBLIC_APP_ID ="1:193871713792:web:b4de672ef06d12a4aa2ae5"
+NEXT_PUBLIC_MEASUREMENT_ID ="G-F43WSDYM4V"
+
+
 # Dokumentasi Aplikasi CRUD Buku
 
 Aplikasi ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data buku. Aplikasi menggunakan teknologi React untuk antarmuka pengguna, Firebase Realtime Database untuk menyimpan data, dan Tailwind CSS untuk tampilan.
@@ -95,6 +108,6 @@ Anda dapat melakukan kontribusi dengan cara:
 - Firebase Realtime Database
 - Tailwind CSS
 
-## Lisensi
 
-Tuliskan lisensi aplikasi Anda di sini.
+
+
