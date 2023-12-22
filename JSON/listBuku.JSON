@@ -1,0 +1,66 @@
+[
+  {
+    "id": "0",
+    "harga": 100000,
+    "judul": "Harry Potter dan Batu BertuaH",
+    "penerbit": "Bentang Pustaka",
+    "penulis": "J.K. Rowling",
+    "tahun_terbit": 2001
+  },
+  {
+    "id": "1",
+    "harga": 75000,
+    "judul": "Perahu KertaS",
+    "penerbit": "Gramedia Pustaka Utama",
+    "penulis": "Dewi Lestari",
+    "tahun_terbit": 2009
+  },
+  {
+    "id": "2",
+    "harga": 50000,
+    "judul": "Laskar Pelangi",
+    "penerbit": "Bentang Pustaka",
+    "penulis": "Andrea Hirata",
+    "tahun_terbit": 2005
+  },
+  {
+    "id": "3",
+    "harga": 55000,
+    "judul": "Dilan 1990",
+    "penerbit": "Mizan Media Utama",
+    "penulis": "Pidi Baiq",
+    "tahun_terbit": 2014
+  },
+  {
+    "id": "4",
+    "harga": 70000,
+    "judul": "Filosofi Teras",
+    "penerbit": "Gramedia Pustaka Utama",
+    "penulis": "Henry Manampiring",
+    "tahun_terbit": 2018
+  },
+  {
+    "id": "5",
+    "harga": 65000,
+    "judul": "Cinta di Balik Awan",
+    "penerbit": "Gramedia Pustaka Utama",
+    "penulis": "Tere Liye",
+    "tahun_terbit": 2018
+  },
+  {
+    "id": "6",
+    "harga": 75000,
+    "judul": "Sebuah Seni untuk Bersikap Bodo Amat",
+    "penerbit": "Gramedia Pustaka Utama",
+    "penulis": "Mark Manson",
+    "tahun_terbit": 2018
+  },
+  {
+    "id": "-NmFu2cEzJih4Ld7SLRh",
+    "harga": 10000,
+    "judul": "MTK",
+    "penerbit": "JOGJA",
+    "penulis": "assegaf",
+    "tahun_terbit": "2010"
+  }
+]
